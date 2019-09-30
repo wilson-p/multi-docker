@@ -22,3 +22,4 @@ after_success:
   - docker push wilsonpdz/multi-nginx
   - docker push wilsonpdz/multi-server
   - docker push wilsonpdz/multi-worker
+  
